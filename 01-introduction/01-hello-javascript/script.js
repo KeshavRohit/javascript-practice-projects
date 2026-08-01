@@ -1,0 +1,12 @@
+var name = "Keshav Rohit";
+var age = 19;
+var course = "JavaScript";
+var email = "mightychamp25@gmail.com";
+var linkedin = "www.linkedin.com/in/keshavrohit";
+console.log("========== PROFILE ==========");
+console.log("Name :", name);
+console.log("Age :", age);
+console.log("Current Favourite Learning Course :", course);
+console.log("Email :", email);
+console.log("LinkedIn link :", linkedin);
+console.log("=============================");
